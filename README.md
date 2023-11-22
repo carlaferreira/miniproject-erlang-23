@@ -29,7 +29,8 @@ To submit your answers, simply push your files onto the repository. The problem 
 * Extension of Task 1 to include VIP Users.
 * VIP users have priority over regular users when booking a resource.
 * Any resource that has been booked by a regular user, provided the booking is not yet in effect, can be overridden by a VIP user (i.e., a VIP can take over any booking that is still in the future).
-* Regular users must be notified if their bookings are canceled due to a VIP user. VIPs cannot override other VIPs.
+* Regular users must be notified if their bookings are canceled due to a VIP user.
+* VIPs cannot override other VIPs.
 
 ### Task 3
 * Extension of Task 2 to include compound reservations.
