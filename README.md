@@ -4,6 +4,7 @@
 ## Erlang Lab Class #2 - Miniproject
 
 **Note that the mini-project is the same for the three modules (Go, Erlang, and Rust).** 
+**DEADLINE** 29/11/2023 11:59AM
 
 ----
 To submit your answers, simply push your files onto the repository. The problem will be graded.
