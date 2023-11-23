@@ -25,6 +25,8 @@ To submit your answers, simply push your files onto the repository. The problem 
 * Reservations must also have a timeframe and your system should simulate some sort of running clock that advances continuously.
 * You may assume that users release resources automatically (i.e., you need not wait for a notification from a user to signal that a booked resource is now available).
 
+**Note:** Add a small report to the task 1 folder that explains what correctness properties your system has and what achieves them.
+
 ### Task 2
 * Extension of Task 1 to include **VIP Users**.
 * VIP users have priority over regular users when booking a resource.
@@ -32,8 +34,12 @@ To submit your answers, simply push your files onto the repository. The problem 
 * Regular users must be notified if their bookings are canceled due to a VIP user.
 * VIPs cannot override other VIPs.
 
+**Note:** Add a small report to the task 2 folder that explains what correctness properties your system has and what achieves them.
+
 ### Task 3
 * Extension of Task 2 to include **compound reservations**.
 * A user may attempt to book several resources simultaneously and the reservation as a whole can only succeed if all resources are booked.
 * If at least one of the resources is unavailable, then the booking fails and no resource is assigned to the user because of this booking.
 * For a lower grade, build on top of **Task 1**.
+
+**Note:** Add a small report to the task 3 folder that explains what correctness properties your system has and what achieves them.
